@@ -146,7 +146,7 @@ This script performs the following:
 
 ---
 
-## 📁 Output Structure
+## Output Structure
 
 After successful execution, you will find:
 
@@ -161,7 +161,7 @@ After successful execution, you will find:
 
 ---
 
-## 📷 Visualizing Assembly Graph
+## Visualizing Assembly Graph
 
 The pipeline generates a GFA file and visual graph:
 
