@@ -121,8 +121,17 @@ polypolish polish flye_Saureus/assembly.fasta Saureus_polishing_map.sam > Saureu
 
 ## 8. Evaluating the assembly
 
+```bash
+busco -i Saureus_polished_assembly.fasta -l bacteria -o Saureus_BUSCO -m geno -c 4 -f > busco.log
+```
 
+---
 
+## 9. Annotation of the assembled genome
+
+```bash
+prokka Saureus_polished_assembly.fasta --genus Staphylococcus --species aureus --cpus 4 --outdir Saureus_PROKKA --force 2> prokka.log 
+```
 
 
 This script performs the following:
