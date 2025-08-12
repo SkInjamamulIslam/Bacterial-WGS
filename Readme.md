@@ -197,6 +197,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-This pipeline was built to help researchers and students understand bacterial genome assembly using real data and widely adopted open-source tools.
+This pipeline was built to help researchers and students understand bacterial genome assembly using both **Illumina short reads** and **Nanopore long reads** using real data and widely adopted open-source tools.
 
 
