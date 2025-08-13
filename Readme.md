@@ -194,7 +194,7 @@ If you use this pipeline in your work, please consider citing the tools used, es
 This pipeline is licensed under a custom non-commercial, study-only license.  
 You may use it freely for educational and research purposes, but **commercial use and publication without citation are prohibited**.
 
-👉 See the full license [here](LICENSE).
+*->* See the full license [here](LICENSE).
 
 ---
 
