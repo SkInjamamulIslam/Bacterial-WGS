@@ -191,7 +191,10 @@ If you use this pipeline in your work, please consider citing the tools used, es
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This pipeline is licensed under a custom non-commercial, study-only license.  
+You may use it freely for educational and research purposes, but **commercial use and publication without citation are prohibited**.
+
+👉 See the full license [here](LICENSE).
 
 ---
 
