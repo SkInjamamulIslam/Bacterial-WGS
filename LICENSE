@@ -1,0 +1,25 @@
+Bacterial-WGS: A Bacterial Genome Assembly Pipeline Using Short and Long Reads  
+Copyright (c) 2025 Sk Injamamul Islam & Khandker Shahed
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this pipeline and associated documentation files (the "Pipeline"), to use
+the Pipeline **exclusively for educational and non-commercial research purposes**, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   The Pipeline and its components shall not be used, in whole or in part, for any commercial purpose.  
+   Commercial purposes include but are not limited to use in proprietary software, commercial services, paid training, or research intended for commercial gain.
+
+2. **No Publication Without Attribution**  
+   If you use or adapt this Pipeline, or any part of it, in any scientific, academic, or journal publication, proper citation and attribution **must** be given to the original repository:  
+   *->* https://github.com/SkInjamamulIslam/Bacterial-WGS
+
+3. **Modification and Redistribution**  
+   Modification and redistribution of this Pipeline are permitted **only for non-commercial educational or research purposes**, provided that:  
+   - This license text remains included in all copies or substantial portions of the Pipeline.  
+   - You document any changes made and clearly indicate the original source.
+
+4. **No Warranty**  
+   THE PIPELINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PIPELINE OR THE USE OR OTHER DEALINGS IN THE PIPELINE.
+
+By using this Pipeline, you agree to abide by the terms stated above.
+
